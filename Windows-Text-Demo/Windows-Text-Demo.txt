@@ -7,7 +7,7 @@ DELAY 500
 ENTER
 DELAY 750
 
-STRING Hello World!
+STRING I am in your computer
 ENTER
 DEFAULT_DELAY 50
 
